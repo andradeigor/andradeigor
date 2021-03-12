@@ -46,7 +46,6 @@ I'm a begginer Full-Stack Web Developer
 <img alt="Shell Script" src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </p>
 <br />
-<br />
 
 ---
 
