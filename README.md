@@ -15,11 +15,13 @@ I'm a begginer Full-Stack Web Developer
 
 ### Connect with me:
 
-<img align="left" alt="Instagram" width="22px" src="https://user-images.githubusercontent.com/21049910/110874192-18651780-82b2-11eb-95bd-f042a1b9856f.png" />
+<a href="mailto:ig.vp@hotmail.com"><img align="left" alt="Mail" width="22px" src="https://user-images.githubusercontent.com/21049910/110874192-18651780-82b2-11eb-95bd-f042a1b9856f.png" /> </a>
   
-<img align="left" alt="LinkedIn" width="22px" src="https://user-images.githubusercontent.com/21049910/110874234-27e46080-82b2-11eb-9c82-50d8e24a5d97.png" />
+<a href="https://www.linkedin.com/in/igor-andrade-4344b8136/"><img align="left" alt="LinkedIn" width="22px" src="https://user-images.githubusercontent.com/21049910/110874234-27e46080-82b2-11eb-9c82-50d8e24a5d97.png" /></a>
 
-<br />
+<a href="https://www.instagram.com/grande_igor/"><img align="left" alt="Instagram" width="22px" src="https://user-images.githubusercontent.com/21049910/110880749-dc37b400-82bd-11eb-9200-c6849a15899b.png" /></a>
+
+<br/>
 
 ---
 
@@ -43,6 +45,7 @@ I'm a begginer Full-Stack Web Developer
 <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 <img alt="Shell Script" src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </p>
+<br />
 <br />
 
 ---
