@@ -3,7 +3,6 @@
 <h2 align="center"> 
 I'm a begginer Full-Stack Web Developer
 </h2 >
-
 <p align="center">
 - 🌱 I’m trying to learn everything 🤣
 </p>
@@ -25,7 +24,7 @@ I'm a begginer Full-Stack Web Developer
 ---
 
 ### Languages and Tools:
-
+<p>
 <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 <img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
@@ -43,8 +42,7 @@ I'm a begginer Full-Stack Web Developer
 <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 <img alt="Shell Script" src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-
-<br />
+</p>
 <br />
 
 ---
