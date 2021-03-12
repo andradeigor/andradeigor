@@ -15,11 +15,11 @@ I'm a begginer Full-Stack Web Developer
 
 ### Connect with me:
 
-<a href="mailto:ig.vp@hotmail.com"><img align="left" alt="Mail" width="22px" src="https://user-images.githubusercontent.com/21049910/110874192-18651780-82b2-11eb-95bd-f042a1b9856f.png" /> </a>
+<a href="mailto:ig.vp@hotmail.com"><img align="left" alt="Mail" width="32px" src="https://user-images.githubusercontent.com/21049910/110874192-18651780-82b2-11eb-95bd-f042a1b9856f.png" /> </a>
   
-<a href="https://www.linkedin.com/in/igor-andrade-4344b8136/"><img align="left" alt="LinkedIn" width="22px" src="https://user-images.githubusercontent.com/21049910/110874234-27e46080-82b2-11eb-9c82-50d8e24a5d97.png" /></a>
+<a href="https://www.linkedin.com/in/igor-andrade-4344b8136/"><img align="left" alt="LinkedIn" width="32px" src="https://user-images.githubusercontent.com/21049910/110874234-27e46080-82b2-11eb-9c82-50d8e24a5d97.png" /></a>
 
-<a href="https://www.instagram.com/grande_igor/"><img align="left" alt="Instagram" width="22px" src="https://user-images.githubusercontent.com/21049910/110880749-dc37b400-82bd-11eb-9200-c6849a15899b.png" /></a>
+<a href="https://www.instagram.com/grande_igor/"><img align="left" alt="Instagram" width="32px" src="https://user-images.githubusercontent.com/21049910/110880749-dc37b400-82bd-11eb-9200-c6849a15899b.png" /></a>
 
 <br/>
 
@@ -55,9 +55,3 @@ I'm a begginer Full-Stack Web Developer
   <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andradeigor&show_icons=true&hide_border=true&theme=radical" />
 
 </p>
-
-
-
-
-[mail]: mailto:ig.vp@hotmail.com
-[linkedin]: https://www.linkedin.com/in/igor-andrade-4344b8136/
