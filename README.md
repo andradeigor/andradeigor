@@ -12,6 +12,8 @@ I'm a begginer Full-Stack Web Developer
 <img  width="15" height="15" src="https://user-images.githubusercontent.com/21049910/110878670-60883800-82ba-11eb-96c5-7a0ad3b7adb3.png">
 </p>
 
+---
+
 ### Connect with me:
 
 <img align="left" alt="Instagram" width="22px" src="https://user-images.githubusercontent.com/21049910/110874192-18651780-82b2-11eb-95bd-f042a1b9856f.png" />
