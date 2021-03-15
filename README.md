@@ -14,8 +14,6 @@ I'm a begginer Full-Stack Web Developer
 ---
 
 ### Connect with me:
-
-<a href="mailto:ig.vp@hotmail.com"><img align="left" alt="Mail" width="32px" src="https://user-images.githubusercontent.com/21049910/110874192-18651780-82b2-11eb-95bd-f042a1b9856f.png" /> </a>
   
 <a href="https://www.linkedin.com/in/igor-andrade-4344b8136/"><img align="left" alt="LinkedIn" width="32px" src="https://user-images.githubusercontent.com/21049910/110874234-27e46080-82b2-11eb-9c82-50d8e24a5d97.png" /></a>
 
