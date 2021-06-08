@@ -48,7 +48,7 @@ I'm a begginer Full-Stack Web Developer
 ---
 
 <p align="center">
-  <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=andradeigor&show_icons=true&hide_border=true&theme=radical" />
+  <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=andradeigor&show_icons=true&hide_border=true&theme=radical" />
   <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andradeigor&show_icons=true&hide_border=true&theme=radical" />
 
 </p>
