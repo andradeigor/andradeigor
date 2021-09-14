@@ -2,14 +2,14 @@
 
 
 ### I'm a begginer Full-Stack Web Developer
-<p>
+
 
 - 🌱 I’m trying to learn everything 🤣
 
  <img align='right' alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=andradeigor&show_icons=true&hide_border=true&theme=radical" />
 
 - ⚡ Fun fact: I love to solve Rubik's Cube
-</p>
+
 
 ### Connect with me:
   
