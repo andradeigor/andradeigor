@@ -15,9 +15,9 @@ I'm a begginer Full-Stack Web Developer
 
 ### Connect with me:
   
-<a href="https://www.linkedin.com/in/igor-andrade-4344b8136/"><img align="left" alt="LinkedIn" width="32px" src="https://user-images.githubusercontent.com/21049910/110874234-27e46080-82b2-11eb-9c82-50d8e24a5d97.png" /></a>
-
-<a href="https://www.instagram.com/andradeeeigor/"><img align="left" alt="Instagram" width="32px" src="https://user-images.githubusercontent.com/21049910/110880749-dc37b400-82bd-11eb-9200-c6849a15899b.png" /></a>
+[![Twitter Badge](https://img.shields.io/badge/twitter-28a0d5?style=for-the-badge&logo=twitter&logoColor=fff&link=https://twitter.com/AndradeeeIgor)](https://twitter.com/AndradeeeIgor)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrade-de-igor/)
+[![Instagram](https://img.shields.io/badge/Instagram-e02c6f?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/AndradeeeIgor/)
 
 <br/>
 
