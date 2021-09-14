@@ -1,17 +1,15 @@
-# Hello there, I'm Igor de Andrade 
+## Hello there, I'm Igor de Andrade 
 
-<h2> 
-I'm a begginer Full-Stack Web Developer
-</h2 >
+
+### I'm a begginer Full-Stack Web Developer
 <p>
+
 - 🌱 I’m trying to learn everything 🤣
-</p>
-<p>
+
+ <img align='right' alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=andradeigor&show_icons=true&hide_border=true&theme=radical" />
+
 - ⚡ Fun fact: I love to solve Rubik's Cube
-<img  width="15" height="15" src="https://user-images.githubusercontent.com/21049910/110878670-60883800-82ba-11eb-96c5-7a0ad3b7adb3.png">
 </p>
-
-
 
 ### Connect with me:
   
@@ -47,7 +45,4 @@ I'm a begginer Full-Stack Web Developer
 
 ---
 
-<p>
-  <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=andradeigor&show_icons=true&hide_border=true&theme=radical" />
 
-</p>
