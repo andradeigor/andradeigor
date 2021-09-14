@@ -1,12 +1,12 @@
 # Hello there, I'm Igor de Andrade 
 
-<h2 align="center"> 
+<h2> 
 I'm a begginer Full-Stack Web Developer
 </h2 >
-<p align="center">
+<p>
 - 🌱 I’m trying to learn everything 🤣
 </p>
-<p align="center">
+<p>
 - ⚡ Fun fact: I love to solve Rubik's Cube
 <img  width="15" height="15" src="https://user-images.githubusercontent.com/21049910/110878670-60883800-82ba-11eb-96c5-7a0ad3b7adb3.png">
 </p>
