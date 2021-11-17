@@ -1,28 +1,10 @@
-## Hello there, I'm Igor de Andrade 
 
-
-### I'm a begginer Full-Stack Web Developer
-
-
-- 🌱 I’m trying to learn everything 🤣
-
- <img align='right' alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=andradeigor&show_icons=true&hide_border=true&theme=radical" />
-
-- ⚡ Fun fact: I love to solve Rubik's Cube
-
-
-### Connect with me:
-  
-[![Twitter Badge](https://img.shields.io/badge/twitter-28a0d5?style=for-the-badge&logo=twitter&logoColor=fff&link=https://twitter.com/AndradeeeIgor)](https://twitter.com/AndradeeeIgor)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrade-de-igor/)
-[![Instagram](https://img.shields.io/badge/Instagram-e02c6f?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/AndradeeeIgor/)
-
-<br/>
-
-
-
-### Languages and Tools:
-<p>
+### Hello there, I'm Igor de Andrade.
+<img align='right' src="https://user-images.githubusercontent.com/21049910/142228707-19da3e1b-b1fd-4c02-a99c-2a2426e4d45f.png" width="230">
+<p><em> I'm a begginer Full-Stack Web Developer</a>
+ </em></p>
+ 
+<p align="left">
 <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 <img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
@@ -41,8 +23,20 @@
 <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 <img alt="Shell Script" src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </p>
-<br />
 
 
+<p align="left">
+ Connect with me
+</p>
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrade-de-igor/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AndradeeeIgor)
+[![Instagram](https://img.shields.io/badge/Instagram-e02c6f?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/AndradeeeIgor/)
+
+<div>
+  <a href="https://github.com/andradeigor"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andradeigor&show_icons=true&hide_border=true&theme=radical&include_all_commits=true&count_private=true"/>
+
+<!--
 
 
