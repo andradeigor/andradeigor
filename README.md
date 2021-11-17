@@ -1,6 +1,6 @@
 
 ### Hello there, I'm Igor de Andrade.
-<img align='right' src="https://user-images.githubusercontent.com/21049910/142228707-19da3e1b-b1fd-4c02-a99c-2a2426e4d45f.png" width="230">
+<img align='right' src="https://user-images.githubusercontent.com/21049910/142228707-19da3e1b-b1fd-4c02-a99c-2a2426e4d45f.png" width="280">
 <p><em> I'm a begginer Full-Stack Web Developer</a>
  </em></p>
  
