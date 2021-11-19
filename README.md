@@ -1,42 +1,80 @@
-
-### Hello there, I'm Igor de Andrade.
-<img align='right' src="https://user-images.githubusercontent.com/21049910/142230079-9911961d-1979-47b5-bb0f-5dd96e546aec.png" width="280">
-<p><em> I'm a begginer Full-Stack Web Developer</a>
- </em></p>
+<h2>Hello there, I'm Igor de Andrade.</h2>
+<img align='right' src="https://user-images.githubusercontent.com/21049910/142230079-9911961d-1979-47b5-bb0f-5dd96e546aec.png" width="230">
+<p><em> I'm a begginer Full-Stack Web Developer<br>
+Computer Science Student at <a href="https://ufrj.br/en/">UFRJ</a>. (Mar 2021 - Currently)<br>University Monitor in Integers Numbers at <a href="https://ufrj.br/en/">UFRJ</a>. (Nov 2021 - Currently)<br> Student at <a href="https://www.facebook.com/competicoesdealgoritmoseprogramacaoufrj/">UFRJ Algorithm and Programming Competitions. </a>(Nov 2021 - Currently) <br><br><br><br><br><br></em></p>
  
-<p align="left">
-<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-<img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-<img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
-<img alt="LaTeX" src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>
-<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img alt="Material UI" src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/>
-<img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-<img alt="Express.js" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
-<img alt="Express.js" src="https://img.shields.io/badge/formik%20-%23404d59.svg?&style=for-the-badge"/>
-<img alt="StyledComponent" src="https://img.shields.io/badge/StyledComponent%20-%23404d59.svg?&style=for-the-badge"/>
-<img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-<img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-<img alt="Shell Script" src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+<p align="center">
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="TypeScript" width="40" height="40"/>
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
+  </a>
+  <br>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  </a>  
+  <a href="https://nodejs.org/en/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" alt="NodeJs" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" alt="postgresql" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" alt="docker" width="40" height="40"/>
+  </a>
+  <br>
 </p>
+<br>
 
-
-<p align="left">
+<p align="center">
+<a href="https://github.com/andradeigor"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andradeigor&show_icons=true&hide_border=true&theme=radical&include_all_commits=true&count_private=true"/>
+  </a>
+ <a href="https://github.com/andradeigor"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andradeigor&show_icons=true&hide_border=true&theme=radical&include_all_commits=true&count_private=true"/>
+  </a>
+</p>
+   <br>
+<p align="center">
+  <br>
+    <img src="https://github-profile-trophy.vercel.app/?username=AndradeIgor&row=1&column=6&theme=darkhub" />
+  <br>
+</p>
+  
+<p align="center">
  Connect with me
 </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/andrade-de-igor/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/AndradeeeIgor">
+    <img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/AndradeeeIgor/">
+    <img src="https://img.shields.io/badge/Instagram-e02c6f?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrade-de-igor/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AndradeeeIgor)
-[![Instagram](https://img.shields.io/badge/Instagram-e02c6f?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/AndradeeeIgor/)
 
-<div>
-  <a href="https://github.com/andradeigor"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andradeigor&show_icons=true&hide_border=true&theme=radical&include_all_commits=true&count_private=true"/>
 
-<!--
+
+
+
 
 
