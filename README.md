@@ -1,7 +1,7 @@
 <h2>Hello there, I'm Igor de Andrade.</h2>
 <img align='right' src="https://user-images.githubusercontent.com/21049910/142230079-9911961d-1979-47b5-bb0f-5dd96e546aec.png" width="230">
 <p><em> I'm a begginer Full-Stack Web Developer<br>
-Computer Science Student at <a href="https://ufrj.br/en/">UFRJ</a>. (Mar 2021 - Currently)<br>University Monitor in Integers Numbers at <a href="https://ufrj.br/en/">UFRJ</a>. (Nov 2021 - Jan 2023)<br> Student at <a href="https://www.facebook.com/competicoesdealgoritmoseprogramacaoufrj/">UFRJ Algorithm and Programming Competitions. </a>(Nov 2021 - Mar 2022) <br> Extensionist at <a href="https://github.com/caronae">Caronaê </a>(Oct 2022 - Aug 2023) <br>Trainee at <a href="https://www.linkedin.com/company/capgov/?originalSubdomain=br">CapGov </a>(Oct 2022 - Aug 2023)<br><br><br><br><br><br><br></em></p>
+Computer Science Student at <a href="https://ufrj.br/en/">UFRJ</a>. (Mar 2021 - Currently)<br>University Monitor in Integers Numbers at <a href="https://ufrj.br/en/">UFRJ</a>. (Nov 2021 - Jan 2023)<br> Student at <a href="https://www.facebook.com/competicoesdealgoritmoseprogramacaoufrj/">UFRJ Algorithm and Programming Competitions. </a>(Nov 2021 - Mar 2022) <br> Extensionist at <a href="https://github.com/caronae">Caronaê </a>(Oct 2022 - Aug 2023) <br>Trainee at <a href="https://www.linkedin.com/company/capgov/?originalSubdomain=br">CapGov </a>(Oct 2022 - Currently)<br><br><br><br><br><br><br></em></p>
  
 <p align="center">
   <a href="https://www.python.org" target="_blank">
