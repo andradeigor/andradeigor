@@ -62,9 +62,6 @@ Computer Science Student at <a href="https://ufrj.br/en/">UFRJ</a>. (Mar 2021 - 
   <a href="https://www.linkedin.com/in/andrade-de-igor/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/AndradeeeIgor">
-    <img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
   <a href="https://www.instagram.com/AndradeeeIgor/">
     <img src="https://img.shields.io/badge/Instagram-e02c6f?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
