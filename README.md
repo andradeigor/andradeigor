@@ -59,9 +59,6 @@ Computer Science Student at <a href="https://ufrj.br/en/">UFRJ</a>. (Mar 2021 - 
  Connect with me
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/andrade-de-igor/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
   <a href="https://www.instagram.com/AndradeeeIgor/">
     <img src="https://img.shields.io/badge/Instagram-e02c6f?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
